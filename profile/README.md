@@ -52,7 +52,7 @@ Laserwolve Games is an innovative game development studio dedicated to creating 
   </table>
 </div>
 
-## 📖 Repository Organization
+## 📖 Repository Architecture
 
 <div align="center">
 
