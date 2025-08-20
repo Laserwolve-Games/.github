@@ -28,19 +28,19 @@ Laserwolve Games is an innovative game development studio dedicated to creating 
     <tr>
       <td align="center">
         <a href="https://DaggerQuest.com/" target="_blank">
-          <img src="https://github.com/Laserwolve-Games/DaggerQuest/blob/main/logo.png" alt="DaggerQuest Logo" width="400"/>
+          <img src="https://github.com/Laserwolve-Games/DaggerQuest/blob/main/logo.webp" alt="DaggerQuest Logo" width="400"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Laserwolve-Games/Overlord" target="_blank">
-          <img src="https://github.com/Laserwolve-Games/Overlord/blob/main/images/readmelogo.png" alt="Overlord Logo" width="400"/>
+          <img src="https://github.com/Laserwolve-Games/Overlord/blob/main/images/readmelogo.webp" alt="Overlord Logo" width="400"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/Laserwolve-Games/CAFfeine" target="_blank">
-          <img src="https://github.com/Laserwolve-Games/CAFfeine/blob/main/images/logo.png" alt="CAFfeine Logo" width="400"/>
+          <img src="https://github.com/Laserwolve-Games/CAFfeine/blob/main/images/logo.webp" alt="CAFfeine Logo" width="400"/>
         </a>
       </td>
       <td align="center">
