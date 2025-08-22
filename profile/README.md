@@ -60,13 +60,14 @@ Laserwolve Games is an innovative game development studio dedicated to creating 
 graph TD
     A[🐺 Laserwolve Games] --> B[Games]
     A --> C[In-House Tools]
-    B --> D[DaggerQuest]
-    E --> E[DaggerQuest.com]
-    E --> F[DaggerQuest Test Realm]
-    B --> G[Plains of Shinar]
-    C --> H[Overlord]
-    C --> I[CAFfiene]
-    A --> J[LaserwolveGames.com]
+    B --> H[DaggerQuest]
+    H --> F[DaggerQuest.com]
+    H --> G[DaggerQuest Test Realm]
+    B --> E[Plains of Shinar]
+    C --> I[Overlord]
+    C --> J[CAFfiene]
+    H --> K[DaggerTest]
+    A --> L[LaserwolveGames.com]
 ```
 </div>
 
